@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: url('Header.png') no-repeat center center;
+    background: url("Images/Header.png") no-repeat center center;
     background-size: cover;
     padding: 20px;
     text-align: center;
